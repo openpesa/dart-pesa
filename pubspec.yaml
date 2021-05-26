@@ -1,0 +1,15 @@
+name: dart_pesa
+description: Easy intergation Mpesa OpenAPI in your Dart applications.
+version: 0.0.1
+homepage: https://openpesa.github.io/dart-pesa/
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies: 
+  encrypt: ^5.0.0
+  http: ^0.13.3
+
+dev_dependencies:
+  pedantic: ^1.10.0
+  test: ^1.16.0
